@@ -1,0 +1,4 @@
+name: TnT
+main: me.zackpollard.TNT.TnT
+version: 0.2
+commands:
